@@ -1,23 +1,17 @@
 [
   {
-    "remote": "github",
     "repository": "absarrahman/android_device_xiaomi_msm8956-common",
     "target_path": "device/xiaomi/msm8956-common"
-    "branch": "android-8.1"
   },
 
   {
-    "remote": "github",
     "repository":  "absarrahman/kernel_xiaomi_msm8956",
-    "target_path": "kernel/xiaomi/msm8956",
-    "branch": "8.1-gcc6"
+    "target_path": "kernel/xiaomi/msm8956"
   },
 
   {
-    "remote": "github",
     "repository":  "absarrahman/proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "8.1"
+    "target_path": "vendor/xiaomi"
   },
 
   {
